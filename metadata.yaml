@@ -1,0 +1,42 @@
+_repo: Men-of-Marlowe-s_70426
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dudeney, Henry, Mrs.
+    aliases:
+    - Dudeney, Alice
+    - Dudeney, H. E., Mrs.
+    - Dudeney, Mrs. Henry
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '55404'
+    url: http://www.gutenberg.org/2009/agents/55404
+    wikipedia: https://en.wikipedia.org/wiki/Alice_Dudeney
+description: ''
+gutenberg_issued: '2023-03-31'
+identifiers:
+  gutenberg: '70426'
+language: en
+pgterms:marc904: https://books.google.com/books?id=c2QoAAAAMAAJ, https://hdl.handle.net/2027/nyp.33433074968516,
+  https://books.google.com/books?id=C3sXAAAAYAAJ
+pgterms:marc905: 20230111215312dudeney
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Paul Haxo from images generously made available by the New York Public
+  Library, Google and the HathiTrust Digital Library.
+publication_note: '  $aUnited States :$bHenry Holt and Company, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Short stories, English'
+- !lcsh 'Death -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Introductory -- The one in red -- Arnold's laundress -- Why? -- Jimmy
+  -- Game feathers -- An interlude -- Mortgaged -- A political woman -- Beyond the
+  gray gate -- The set at seven -- Hopkins.
+title: Men of Marlowe's
+url: http://www.gutenberg.org/ebooks/70426
